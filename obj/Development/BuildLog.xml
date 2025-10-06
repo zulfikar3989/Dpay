@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>Dpay</Name>
+    <LastWriteTime>2024-05-07T08:03:35.3015612Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+    <Salt>wmG7Md5H</Salt>
+    <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv78Sc7yWnUeLqZ31EkKtQgAAAAACAAAAAAADZgAAwAAAABAAAABStxpk0H29p3d2phV/Ch4NAAAAAASAAACgAAAAEAAAAGYLeaf2LhxKLjGb3hNFRXQoAAAAgbZst9lkZKvA/wqZaQ2J/WlIeXFOF4Zqodr6/QcOlHviVu8ekO3xZhQAAADzpsuh18vm8p1+xMaWDVfnqBqmIQ==</LastKnownProtectedHashedPassword>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>DPAY - Update Nomor Jurnal.dtsx</Name>
+      <LastWriteTime>2024-05-07T08:42:12.2626812Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+      <Salt>DgFBCgQ/</Salt>
+      <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv78Sc7yWnUeLqZ31EkKtQgAAAAACAAAAAAADZgAAwAAAABAAAAC3H8DRDhrnwT6L8q5cNSTlAAAAAASAAACgAAAAEAAAADWa8zIOFegUMctu3uJcyUcoAAAAH7q2S15HDELIIYC8ipQ19DVvH7md8gmUQbTGh5vh3S3uO6LkPswDsRQAAADgfWo9ZeKjkNyEe13Ifrd0O2uiVg==</LastKnownProtectedHashedPassword>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
